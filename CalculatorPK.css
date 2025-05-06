@@ -1,0 +1,14 @@
+body {
+    align-items: center;
+    background-color: black;
+    background: -webkit-repeating-linear-gradient();
+    padding-bottom: 0%;
+}
+
+h1 {
+    color: salmon;
+    font-size: 50px;
+    font-weight: fatter;
+    margin: 0;
+    text-align: center;
+}
